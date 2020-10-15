@@ -1,0 +1,16 @@
+   27  teamviewer --daemon start
+   29  /usr/bin/python /home/tidus/PythonWKS/codeintern.py
+   30  python codeintern.py
+   31  python3 codeintern.py
+   33  git add.
+   35  git commit
+   38  git init
+   39  git add .
+   40  git commit -m "Simple hello world"
+   41  git remote add origin https://github.com/Paul1886/Rough.git
+   42  git push --set-upstream origin master
+   43  git add . 
+   44  git commit -m "updated hellow world"
+   45  git push
+   46  /usr/bin/python /home/tidus/.vscode-oss/extensions/ms-python.python-2020.9.112786/pythonFiles/pyvsc-run-isolated.py /home/tidus/.vscode-oss/extensions/ms-python.python-2020.9.112786/pythonFiles/shell_exec.py /usr/bin/python /home/tidus/.vscode-oss/extensions/ms-python.python-2020.9.112786/pythonFiles/pyvsc-run-isolated.py pip install -U notebook --user /tmp/tmp-4050i6ACRPgCo3vO.log
+   47  history
